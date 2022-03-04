@@ -1,4 +1,4 @@
-# Exemplo como executar Som em arquivos Locais (Assets)
+# Exemplo como executar Som em arquivos Locais Assets
 
 </br>
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
