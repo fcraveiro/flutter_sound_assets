@@ -1,4 +1,9 @@
+# flutter_futurebuilder_basico
+
+# Exemplo de futurebuilder
+
 </br>
+
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -8,7 +13,8 @@
 
 ## Sobre
 
-Exemplo de Play Som em Arquivos locais
+
+Exemplo como Executar Som em Arquivos locais
 
 ## Additional information
 
