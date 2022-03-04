@@ -15,16 +15,11 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156833754-99f76539-8478-4341-888d-6e7c0f3e1c1a.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156833792-69701c73-ecef-415c-a187-22a874efad5b.png" style="width: 290px height: 500px;" /></td>
         </tr>        
 	</tbody>
 </table>
-
-[Screenshot_1646423847](https://user-images.githubusercontent.com/31604881/156833754-99f76539-8478-4341-888d-6e7c0f3e1c1a.png)
-
-![Screenshot_1646423844](https://user-images.githubusercontent.com/31604881/156833792-69701c73-ecef-415c-a187-22a874efad5b.png)
-
 
 </br>
 ## License Information
