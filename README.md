@@ -1,8 +1,4 @@
-# Exemplo como executar Som em arquivos Locais (Assets)
-
-## Sobre
-
-Exemplo de Play Som em Arquivos locais
+# Exemplo como executar Som em arquivos Locais
 
 </br>
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -10,6 +6,9 @@ Exemplo de Play Som em Arquivos locais
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 </br>
 
+## Sobre
+
+Exemplo de Play Som em Arquivos locais
 
 ## Additional information
 
