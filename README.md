@@ -1,9 +1,6 @@
-# flutter_sound_assets
-
-# Exemplo de Play Som em Assets
+# Exemplo como executar Som em arquivos Locais (Assets)
 
 </br>
-
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -11,8 +8,7 @@
 
 ## Sobre
 
-Exemplo de Play Som em Assets
-
+Exemplo de Play Som em Arquivos locais
 </br>
 
 ## Additional information
@@ -25,8 +21,8 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
-			<td><img alt="" src="" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156833754-99f76539-8478-4341-888d-6e7c0f3e1c1a.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156833792-69701c73-ecef-415c-a187-22a874efad5b.png style="width: 290px height: 500px;" /></td>
         </tr>        
 	</tbody>
 </table>
