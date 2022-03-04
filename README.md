@@ -3,7 +3,13 @@
 ## Sobre
 
 Exemplo de Play Som em Arquivos locais
+
 </br>
+![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+</br>
+
 
 ## Additional information
 
